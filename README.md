@@ -41,7 +41,7 @@ We are JUNewBee from CSE at JU, and We do content on Design and Development of J
 7.`Umma Salma - 302`
 
 ## Demo work
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/UCWfCbiCA0Q)
+[![Watch the video](https://github.com/TabiaTanzin/Multimedia-Project/blob/main/Animation/thumb.png)](https://youtu.be/UCWfCbiCA0Q)
 
 
 ## Brief Intrduction
