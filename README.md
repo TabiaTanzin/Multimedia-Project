@@ -40,9 +40,11 @@ We are JUNewBee from CSE at JU, and We do content on Design and Development of J
 6.`Manas Sarker Akash - 2321` \
 7.`Umma Salma - 302`
 
-## Demo work
+## Demo Work (2D Map Animation)
 [![Watch the video](https://github.com/TabiaTanzin/Multimedia-Project/blob/main/Animation/thumb.png)](https://youtu.be/UCWfCbiCA0Q)
 
+## Demo Work (Android App)
+[![Watch the video](https://github.com/TabiaTanzin/Multimedia-Project/blob/main/Animation/thumb.png)](https://youtu.be/UCWfCbiCA0Q)
 
 ## Brief Intrduction
 <img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide1.PNG" width="720" >
