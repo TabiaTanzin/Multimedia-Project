@@ -44,7 +44,7 @@ We are JUNewBee from CSE at JU, and We do content on Design and Development of J
 [![Watch the video](https://github.com/TabiaTanzin/Multimedia-Project/blob/main/Animation/thumb.png)](https://youtu.be/UCWfCbiCA0Q)
 
 ## Demo Work (Android App)
-[![Watch the video](https://github.com/TabiaTanzin/Multimedia-Project/blob/main/Animation/thumb.png)](https://youtu.be/UCWfCbiCA0Q)
+[![Watch the video](https://github.com/TabiaTanzin/Multimedia-Project/blob/main/Android/thumb.gif)](https://youtube.com/shorts/kGfyqq5N9jo?feature=share)
 
 ## Brief Intrduction
 <img src="https://github.com/TazelHossan/multimedia-project/blob/main/Images/Slide1.PNG" width="720" >
