@@ -38,7 +38,7 @@ We are JUNewBee from CSE at JU, and We do content on Design and Development of J
 4.`Pallabi Biswas - 300` \
 5.`Umma Salma - 302` \
 6.`Tabia Tanzin Prama - 309` \
-7.`Manas Sarker Akash - 2321` \
+7.`Manas Sarker Akash - 2321` 
 
 ## Demo Work-2D Map Animation [Click to watch]
 [![Watch the video](https://github.com/TabiaTanzin/Multimedia-Project/blob/main/Animation/thumb.png)](https://youtu.be/UCWfCbiCA0Q)
