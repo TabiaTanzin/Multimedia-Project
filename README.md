@@ -36,7 +36,7 @@ We are JUNewBee from CSE at JU, and We do content on Design and Development of J
 2.`Mushfika Ikfat Munia - 2319` \
 3.`Kamelia Zaman Moon - 299` \
 4.`Pallabi Biswas - 300` \
-5.`Umma Salma - 302`
+5.`Umma Salma - 302` \
 6.`Tabia Tanzin Prama - 309` \
 7.`Manas Sarker Akash - 2321` \
 
