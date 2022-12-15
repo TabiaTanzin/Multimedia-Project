@@ -40,6 +40,9 @@ We are JUNewBee from CSE at JU, and We do content on Design and Development of J
 6.`Tabia Tanzin Prama - 309` \
 7.`Manas Sarker Akash - 2321` 
 
+## Final Animation [Click to watch]
+[![Watch the video](https://github.com/TabiaTanzin/Multimedia-Project/blob/main/Animation/thumb1.png)](https://youtu.be/6b2j_bSWzcc)
+
 ## Demo Work-2D Map Animation [Click to watch]
 [![Watch the video](https://github.com/TabiaTanzin/Multimedia-Project/blob/main/Animation/thumb.png)](https://youtu.be/UCWfCbiCA0Q)
 
